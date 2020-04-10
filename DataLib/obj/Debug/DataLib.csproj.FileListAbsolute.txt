@@ -1,0 +1,2 @@
+C:\users\admin\documents\csharp\webapp1\DataLib\obj\Debug\DataLib.csprojAssemblyReference.cache
+C:\users\admin\documents\csharp\webapp1\DataLib\obj\Debug\DataLib.csproj.CoreCompileInputs.cache
